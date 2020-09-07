@@ -1,4 +1,9 @@
-<meta name="google-site-verification" content="r7uj-RiT7SfF-vSe5myPu-8FL_ajWw4VuGLGciTohcE" />
+<html>
+  <head>
+    <meta name="google-site-verification" content="r7uj-RiT7SfF-vSe5myPu-8FL_ajWw4VuGLGciTohcE" />
+  </head>
+  
+<body>
 
 ### Hi, there 👋
 
@@ -30,7 +35,8 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
+</body>
+</html>
 
 
 
