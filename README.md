@@ -23,13 +23,12 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 ![Gradle](https://img.shields.io/badge/-Gradle-46821e?style=flat-square&logo=gradle&logoColor=white)
 ![Maven] 
-![Rabbit]
+![Rabbit](https://img.shields.io/badge/-RabbitMq-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Junit] 
 
 
