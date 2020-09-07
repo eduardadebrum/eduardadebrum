@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 I'm Eduarda 
 - 🇧🇷 I´m From Brazil 
 - 🔭 I’m currently working on [Phi](https://somosphi.com/)
-- 🌱 I’m currently learning Design Pattern
+- 🌱 I’m currently learning *Design Pattern*
 
 [![Linkedin: Eduarda](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardadebrumlucena/)](https://www.linkedin.com/in/eduardadebrumlucena/)
 
