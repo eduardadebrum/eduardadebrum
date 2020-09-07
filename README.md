@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardadebrum" alt="eduardadebrum" /></p>
 
 Here are some ideas to get you started:
-- I'm Eduarda 
-- I´m From Brazil 
+- 👩🏻‍💻 I'm Eduarda 
+- 🇧🇷 I´m From Brazil 
 - 🔭 I’m currently working on [Phi](https://somosphi.com/)
 - 🌱 I’m currently learning Design Pattern
 
