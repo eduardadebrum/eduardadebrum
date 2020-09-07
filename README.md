@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardadebrum" alt="eduardadebrum" /></p>
 
 Here are some ideas to get you started:
-- 👩🏻‍💻 I'm Eduarda 
+- I'm Eduarda. I've been programming for 6 years
 - 🇧🇷 I´m From Brazil 
 - 🔭 I’m currently working on [Phi](https://somosphi.com/)
 - 🌱 I’m currently learning **Design Pattern, Best REST Pattern, Hacker Rank Algorithm, JAVA OCP-815**
@@ -28,7 +28,7 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Maven]
+![Maven] 
 ![Gradle]
 ![Rabbit]
 ![Junit] 
