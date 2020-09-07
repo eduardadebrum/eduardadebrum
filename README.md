@@ -26,11 +26,12 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
+![Gradle](https://img.shields.io/badge/-Gradle-6DB33F?style=flat-square&logo=gradle&logoColor=white)
 ![Maven] 
-![Gradle]
 ![Rabbit]
 ![Junit] 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardadebrum" alt="eduardadebrum" /></p>
+<-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardadebrum" alt="eduardadebrum" /></p> -->
