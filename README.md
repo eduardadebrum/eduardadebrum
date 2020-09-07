@@ -1,9 +1,7 @@
 ### Hi, there 👋
 
-I'm Eduarda. I've been programming for 6 years <img src="https://image.flaticon.com/icons/svg/1508/1508880.svg" width="20" height="20"/> 
-
-Here are some ideas to get you started:
-
+- I'm Eduarda. 
+- I've been programming for 6 years <img src="https://image.flaticon.com/icons/svg/1508/1508880.svg" width="20" height="20"/>
 - 🔭 I’m currently working on [Phi](https://somosphi.com/)
 - 🌱 I’m currently learning **Design Pattern, Best REST Pattern, Hacker Rank Algorithm, JAVA OCP-815**
 - 🇧🇷 I´m From Brazil 
