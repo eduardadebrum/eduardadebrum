@@ -13,7 +13,7 @@
 
 These are some of the technologies and tools that I work with:
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=e22318)
+![Java](https://img.shields.io/badge/-Java-e22318?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
