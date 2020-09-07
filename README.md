@@ -2,11 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardadebrum" alt="eduardadebrum" /></p>
 
+I'm Eduarda. I've been programming for 6 years. 
+
 Here are some ideas to get you started:
-- I'm Eduarda. I've been programming for 6 years
-- 🇧🇷 I´m From Brazil 
+
 - 🔭 I’m currently working on [Phi](https://somosphi.com/)
 - 🌱 I’m currently learning **Design Pattern, Best REST Pattern, Hacker Rank Algorithm, JAVA OCP-815**
+- - 🇧🇷 I´m From Brazil 
 
 [![Linkedin: Eduarda](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardadebrumlucena/)](https://www.linkedin.com/in/eduardadebrumlucena/)
 
