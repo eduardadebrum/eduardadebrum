@@ -1,10 +1,10 @@
 ### Hi, there 👋
 
 - I'm Eduarda. 
-- <img src="https://image.flaticon.com/icons/svg/1508/1508880.svg" width="20" height="20"/> I've been programming for 6 years.
+- 👩🏻‍💻 I've been programming for 6 years.
 - 🔭 I’m currently working on [ThoughtWorks](https://www.thoughtworks.com/)
 - 🌱 I’m currently learning **TDD, Design Pattern**
-- 🇧🇷 I´m From Brazil 
+- 🇧🇷 I´m from Brazil 
 
 [![Linkedin: Eduarda](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardadebrumlucena/)](https://www.linkedin.com/in/eduardadebrumlucena/)
 
